@@ -1,0 +1,21 @@
+body {
+  position: relative;
+  margin: 0;
+  padding-bottom: 6rem;
+  min-height: 100%;
+}
+/* footer styling */
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  margin-top: 50px !important;
+  left: 0;
+  padding: 1rem;
+  background-color: #000;
+  /* text-align: center; */
+  color: #fff;
+}
+.fab {
+  cursor: pointer;
+}
